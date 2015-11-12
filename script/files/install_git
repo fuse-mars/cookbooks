@@ -1,0 +1,2 @@
+# install git
+sudo apt-get install --yes --force-yes git

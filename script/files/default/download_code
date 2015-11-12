@@ -1,0 +1,4 @@
+# go to home folder and download the code their
+cd ~
+git clone  https://github.com/fuse-mars/spring-akka-command.git
+cd ~/spring-akka-command

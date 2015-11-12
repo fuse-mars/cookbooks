@@ -1,0 +1,2 @@
+# kill the first process that has spring word in its description
+kill $(ps aux | grep 'spring' | awk '{print $2}')

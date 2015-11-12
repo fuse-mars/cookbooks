@@ -1,0 +1,3 @@
+# build and run spring boot project using gradle
+gradle build
+gradle bootRun

@@ -1,0 +1,4 @@
+# build and run spring boot project using gradle
+cd ~/spring-akka-command
+gradle build
+gradle bootRun
