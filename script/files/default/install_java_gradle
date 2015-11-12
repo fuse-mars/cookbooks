@@ -1,0 +1,8 @@
+# Install java and gradle
+sudo add-apt-repository   --yes --force-yes ppa:webupd8team/java
+sudo apt-get update  --yes --force-yes
+sudo apt-get install  --yes --force-yes oracle-java8-installer
+# install gradle
+sudo add-apt-repository  --yes --force-yes ppa:cwchien/gradle
+sudo apt-get update  --yes --force-yes
+sudo apt-get install  --yes --force-yes gradle
